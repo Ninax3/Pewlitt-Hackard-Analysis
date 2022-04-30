@@ -17,7 +17,7 @@ See retiring_titles table here, <<>>
 
 - The retirement_titles table shows that over half (72,458/133,776 = 54%) of eligible retirement employess have held another position in the company. 
 
-See retirement_titles table here, <<>>
+See retirement_titles table here, https://github.com/Ninax3/Pewlitt-Hackard-Analysis/blob/main/Data/retirement_titles.png
 
 - Mentorship eligible employees by title are a small subset of the retiring titles. 
 See me_titles here, https://github.com/Ninax3/Pewlitt-Hackard-Analysis/blob/main/Data/mentorship_eligibility_count.png
