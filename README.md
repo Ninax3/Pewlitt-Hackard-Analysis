@@ -13,14 +13,14 @@ Other results include -
 - There are seven titles across all departments that are included in the employees eligible for retirement. These are positions that will be needed to be replaced as eligible employees retire. 
 - Senior Engineers and Senior Staff are the two largest counts at 25,916 and 24,926, respectively.
 
-See retiring_titles table here, <<>>
+See retiring_titles table here, https://github.com/Ninax3/Pewlitt-Hackard-Analysis/blob/main/Data/retiring_titles.png
 
 - The retirement_titles table shows that over half (72,458/133,776 = 54%) of eligible retirement employess have held another position in the company. 
 
 See retirement_titles table here, https://github.com/Ninax3/Pewlitt-Hackard-Analysis/blob/main/Data/retirement_titles.png
 
 - Mentorship eligible employees by title are a small subset of the retiring titles. 
-See me_titles here, https://github.com/Ninax3/Pewlitt-Hackard-Analysis/blob/main/Data/mentorship_eligibility_count.png
+See me_titles here, 
 
 # Summary
 The analysis of the tables created show that there are not enough mentorship eligible employees to fill the positions of the retirement eligible employees. Additional queries/tables are recommended -
