@@ -5,7 +5,7 @@ Management has requested two tables of employee information for their "Silver Ts
 # Results
 Management has specfically requested the two following tables - 
 1. The number of employees eligible to retire by title. These are employees born between 1952 and 1955. The total number is 72,458 employees.
-See sample of unique_retirement_titles table here, <<>>
+See sample of unique_retirement_titles table here, https://github.com/Ninax3/Pewlitt-Hackard-Analysis/blob/main/Data/unique_retirement_titles.png
 2. The number of employees eligible for mentorship. These are employees born in 1965. The total number is 1,549 employees. 
 See sample of mentorship_eligiblity table here, <<>>
 
