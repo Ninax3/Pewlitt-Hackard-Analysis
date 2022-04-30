@@ -20,7 +20,7 @@ See retiring_titles table here, https://github.com/Ninax3/Pewlitt-Hackard-Analys
 See retirement_titles table here, https://github.com/Ninax3/Pewlitt-Hackard-Analysis/blob/main/Data/retirement_titles.png
 
 - Mentorship eligible employees by title are a small subset of the retiring titles. 
-See me_titles here, 
+See me_titles here, https://github.com/Ninax3/Pewlitt-Hackard-Analysis/blob/main/Data/me_titles.png
 
 # Summary
 The analysis of the tables created show that there are not enough mentorship eligible employees to fill the positions of the retirement eligible employees. Additional queries/tables are recommended -
